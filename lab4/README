@@ -1,2 +1,5 @@
 This lab we implement a Fibonacci Heap in Python. Fibonacci Heap is a hard but interesting data structure to make Dijkstra reach O(E + VlogV).
 The detailed API can be seen in the report, I will ignore them here.
+I also include a well-written lecture slides nameed fibonacci-heap.pdf.
+The major part is defined in fibonacci_heap.py.
+The testheap.py is a simple testcase verified to be right.

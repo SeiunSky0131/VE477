@@ -1,0 +1,21 @@
+18
+s b 4
+b s 4
+s c 2
+c s 2
+b d 5
+d b 5
+c d 8
+d c 8
+b c 1
+c b 1
+c e 10
+e c 10
+d e 2
+e d 2
+d t 6
+t d 6
+e t 3
+t e 3
+s
+t

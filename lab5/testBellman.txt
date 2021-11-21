@@ -1,0 +1,13 @@
+10
+s c 2
+s b 4
+c b 1
+c d -3
+c e 10
+e t 3
+d t -1
+b d 5
+d e 2
+e t 3
+s
+t

@@ -1,0 +1,10 @@
+This lab implement two algorithms:
+1.Dijkstra (using Fibonacci Heap written in lab4)
+2.Bellman-Ford (with relax judge, which means when there is no update when a round ends, stop to improve efficiency)
+Also, two data structures: SparseGraph and DenseGraph are implemented to support methods include:
+1.AddVertex
+2.RemoveVertex
+3.AddEdge
+4.RemoveEdge
+5.IsAdjacent
+The SpareGraph should be based on Adjacency list and the DenseGraph should be based on Adjacency matrix.

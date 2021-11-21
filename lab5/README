@@ -8,3 +8,6 @@ Also, two data structures: SparseGraph and DenseGraph are implemented to support
 4.RemoveEdge
 5.IsAdjacent
 The SpareGraph should be based on Adjacency list and the DenseGraph should be based on Adjacency matrix.
+
+Also, the Fibonacci Heap is modified to support a nested data structure. By nested, we can insert a node type structure (a class) to a FiboNode. And we can find by
+FiboNode by node type element as well.

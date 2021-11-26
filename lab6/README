@@ -1,0 +1,4 @@
+In this lab we implement three algorithms:
+1. BFS on undirected graphs
+2. Edmonds-Karp to find max flow
+3. Find maximum Bipartite Matching using max flow

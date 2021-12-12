@@ -10,5 +10,5 @@ This project is completed together with Leo Zhou. The problems we analyze includ
 Notice: For JI students taking VE477, you may refer to this project to get the general idea about the problems, but you should not directly copy the content to your project. This will violate the JI Honor Code.
 
 ### At Last
-VE477 Project is really an assignment that is tough but enlightening. I have to admit that most of the hard problem is written by Leo and he is really curious about the Image processing
+VE477 Project is really an assignment that is tough but enlightening. I have to admit that most of the hard problems are written by Leo and he is really curious about the Image processing
 and AI. I have tried my best to search and fetch the essence of the papers. Hope the project can be meaningful to future study.
